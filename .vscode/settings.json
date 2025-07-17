@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.https": {
+        "enable": true, //set it true to enable the feature.
+        "cert": "C:\\Users\\khamp\\Documents\\WorkAtRL\\test-ssl\\ssl\\cert.pem", //path to your SSL certificate
+        "key": "C:\\Users\\khamp\\Documents\\WorkAtRL\\test-ssl\\ssl\\key.pem", //path to your SSL key
+        "dhparam": "C:\\Users\\khamp\\Documents\\WorkAtRL\\test-ssl\\ssl\\dhparam.pem" //path to your Diffie-Hellman parameters
+    }
+}
